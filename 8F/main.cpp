@@ -11,6 +11,7 @@ typedef struct cell {
 } cell;
 int iNeighbor[4] = {-1, 0, 1, 0};
 int jNeighbor[4] = {0, -1, 0, 1};
+
 void FindTheShortestWayOut(int iStart, int jStart, int iEnd, int jEnd, int *dist[], bool *isVisited[], int n, int m) {
     int head = 0;
     int tail = 0;
