@@ -17,6 +17,7 @@ int main() {
     
     int x, y;
     bool hasParallelSlats = false;
+    
     for (int i = 0; i < m; i++) {
         in >> x >> y;
         matrix[x-1][y-1] += 1;
