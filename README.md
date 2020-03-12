@@ -21,3 +21,11 @@ Laboratory works for the 2nd semester (PCMS2 testing system)
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9F">9F: Game.</a></li>
     </ul>
   </li>
+  <li>Lab 10</li>
+  <ul>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10A">10A: Vertex degrees.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10B">10B: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10C">10C: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10D">10D: Coming soon.</a></li>
+    </ul>
+  </li>
