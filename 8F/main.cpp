@@ -11,6 +11,7 @@ typedef struct cell {
 } cell;
 int iNeighbor[4] = {-1, 0, 1, 0};
 int jNeighbor[4] = {0, -1, 0, 1};
+
 void FindTheShortestWayOut(int iStart, int jStart, int iEnd, int jEnd, int *dist[], bool *isVisited[], int n, int m) {
     int head = 0;
     int tail = 0;
@@ -67,7 +68,6 @@ int main() {
     int n, m;
     in >> n >> m;
     G.resize(n);
-    //way.resize(n*m);
     int **dist = new int*[n];
     for (int i = 0; i < n; i++) {
         dist[i] = new int[m];
@@ -120,12 +120,6 @@ int main() {
     }
     else {
         out << dist[iEnd][jEnd] << endl;
-        /*for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                out << dist[i][j] << " ";
-            }
-            out << endl;
-        }*/
         RecreateTheWay(dist, iEnd, jEnd, iEnd, jEnd, 1, n, m, iStart, jStart);
 
         for (int i = way.size() - 1; i >= 0; i--) {
