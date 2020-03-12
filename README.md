@@ -12,3 +12,12 @@ Laboratory works for the 2nd semester (PCMS2 testing system)
     </ul>
   </li>
   <li>Lab 9</li>
+  <ul>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9A">9A: Topological sort.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9B">9B: Cycle search.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9C">9C: Bipartite graph.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9D">9D: Graph condensation.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9E">9E: Hamiltonian path.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/9F">9F: Game.</a></li>
+    </ul>
+  </li>
