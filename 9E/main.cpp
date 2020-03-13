@@ -7,7 +7,6 @@
 using namespace std;
 
 vector<vector<int>> G;
-vector<vector<int>> H;
 vector<bool> isVisited;
 stack<int> order;
 int n, m;
@@ -28,13 +27,11 @@ int main() {
 
     in >> n >> m;
     G.resize(100000);
-    H.resize(100000);
     isVisited.assign(n, false);
     int x, y;
     for (int i = 0; i < m; i++) {
         in >> x >> y;
         G[x-1].push_back(y-1);
-        H[y-1].push_back(x-1);
     }
     for (int i = 0; i < n; i++) {
         if (!isVisited[i]) {
