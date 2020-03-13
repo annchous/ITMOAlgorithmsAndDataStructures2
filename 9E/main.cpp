@@ -9,7 +9,6 @@ using namespace std;
 vector<vector<int>> G;
 vector<bool> isVisited;
 stack<int> order;
-int n, m;
 
 void DFS(int v) {
     isVisited[v] = true;
@@ -25,6 +24,7 @@ int main() {
     ifstream in("hamiltonian.in");
     ofstream out("hamiltonian.out");
 
+    int n, m;
     in >> n >> m;
     G.resize(100000);
     isVisited.assign(n, false);
