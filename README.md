@@ -24,7 +24,7 @@ Laboratory works for the 2nd semester (PCMS2 testing system)
   <li>Lab 10</li>
   <ul>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10A/main.cpp">10A: Vertex degrees.</a></li>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10B/main.cpp">10B: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10B/main.cpp">10B: Spantree 2: Attack of maples.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10C/main.cpp">10C: Coming soon.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10D/main.cpp">10D: Coming soon.</a></li>
     </ul>
