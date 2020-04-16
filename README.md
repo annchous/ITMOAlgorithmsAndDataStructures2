@@ -1,4 +1,5 @@
 # ITMOAlgorithmsAndDataStructures2
+<img src = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/blob/master/itmolog.png">
 Laboratory works for the 2nd semester (PCMS2 testing system)
 <ul>
   <li>Lab 8
