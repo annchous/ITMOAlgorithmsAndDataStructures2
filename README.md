@@ -29,3 +29,12 @@ Laboratory works for the 2nd semester (PCMS2 testing system)
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/10D/main.cpp">10D: Two chinese algorithm.</a></li>
     </ul>
   </li>
+  <li>Lab 11</li>
+  <ul>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/11A/main.cpp">11A: Shortest path.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/11B/main.cpp">11B: Shortest path from each vertex to each.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/11C/main.cpp">11C: Shortest path 2.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/11D/main.cpp">11D: Shortest path and other.</a></li>
+  <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/11E/main.cpp">11E: Negative weight cycle.</a></li>
+    </ul>
+  </li>
