@@ -41,7 +41,7 @@
   </li>
     <li>Lab 12</li>
   <ul>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12A/main.cpp">12A: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12A/main.cpp">12A: Maximum flow.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12B/main.cpp">12B: Coming soon.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12C/main.cpp">12C: Coming soon.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12D/main.cpp">12D: Coming soon.</a></li>
