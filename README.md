@@ -46,4 +46,11 @@
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12C/main.cpp">12C: Flow decomposition.</a></li>
       <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/12D/main.cpp">12D: Circulation.</a></li>
     </ul>
+    <li>Lab 13</li>
+  <ul>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13A/main.cpp">13A: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13B/main.cpp">13B: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13C/main.cpp">13C: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13D/main.cpp">13D: Coming soon.</a></li>
+    </ul>
   </li>
