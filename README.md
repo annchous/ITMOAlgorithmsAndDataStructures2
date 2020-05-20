@@ -48,9 +48,10 @@
     </ul>
     <li>Lab 13</li>
   <ul>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13A/main.cpp">13A: Coming soon.</a></li>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13B/main.cpp">13B: Coming soon.</a></li>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13C/main.cpp">13C: Coming soon.</a></li>
-      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13D/main.cpp">13D: Coming soon.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13A/main.cpp">13A: Naive substring search in string.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13B/main.cpp">13B: Quick search for a substring in a string.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13C/main.cpp">13C: Prefix function.</a></li>
+      <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/13D/main.cpp">13D: KMP state machine.</a></li>
+  <li><a href = "https://github.com/annchous/ITMOAlgorithmsAndDataStructures2/tree/master/RabinKarp/main.cpp">Search for a substring in a string using hash. Rabin-Karp Algorithm.</a></li>
     </ul>
   </li>
